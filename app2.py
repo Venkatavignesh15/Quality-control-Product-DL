@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image
+from ultralytics import YOLO
 import numpy as np
 import sqlite3
 import io
